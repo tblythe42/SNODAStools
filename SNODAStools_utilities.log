@@ -1,0 +1,354 @@
+[INFO | 2024-03-08 10:54:26,937 | interactive] main.py: Started 
+
+[INFO | 2024-03-08 10:54:26,937 | interactive] Running main.py Version 1
+
+[INFO | 2024-03-08 10:55:00,962 | utilities] format_date_yyyymmdd: Starting 2022-10-01 00:00:00 formatting.
+[INFO | 2024-03-08 10:55:00,962 | utilities] format_date_yyyymmdd: Finished 2022-10-01 00:00:00 formatting.
+
+[INFO | 2024-03-08 10:55:00,962 | interactive] This date (20221001) has already been processed. The files will be reprocessed and rewritten.
+
+[INFO | 2024-03-08 10:55:01,087 | utilities] download_snodas: Connected to FTP server. Routing to 2022-10-01 00:00:00
+[INFO | 2024-03-08 10:55:03,571 | utilities] download_snodas: Downloaded 2022-10-01 00:00:00
+[INFO | 2024-03-08 10:55:03,573 | utilities] download_snodas: Download complete for 2022-10-01 00:00:00.
+
+[INFO | 2024-03-08 11:07:18,219 | utilities] format_date_yyyymmdd: Starting 2022-10-01 00:00:00 formatting.
+[INFO | 2024-03-08 11:07:18,219 | utilities] format_date_yyyymmdd: Finished 2022-10-01 00:00:00 formatting.
+
+[INFO | 2024-03-08 11:07:18,219 | interactive] This date (20221001) has already been processed. The files will be reprocessed and rewritten.
+
+[INFO | 2024-03-08 11:07:18,353 | utilities] download_snodas: Connected to FTP server. Routing to 2022-10-01 00:00:00
+[INFO | 2024-03-08 11:07:20,980 | utilities] download_snodas: Downloaded 2022-10-01 00:00:00
+[INFO | 2024-03-08 11:07:20,982 | utilities] download_snodas: Download complete for 2022-10-01 00:00:00.
+
+[INFO | 2024-03-08 11:07:20,982 | utilities] untar_snodas_file: Starting D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar
+[INFO | 2024-03-08 11:07:21,049 | utilities] untar_snodas_file: D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar has been untarred.
+
+[INFO | 2024-03-08 11:07:21,050 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:07:21,057 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,057 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:07:21,328 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,328 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:07:21,335 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,335 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:07:21,597 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,597 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:07:21,604 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,604 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:07:21,866 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,866 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:07:21,872 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:21,872 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:07:22,134 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,134 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 11:07:22,142 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,142 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 11:07:22,415 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,415 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 11:07:22,422 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,422 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 11:07:22,692 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,692 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:07:22,699 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,700 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:07:22,983 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,983 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:07:22,990 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:22,990 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:07:23,296 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:07:23,296 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 11:07:23,302 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,302 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 11:07:23,309 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,309 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 11:07:23,315 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,316 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 11:07:23,322 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,323 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 11:07:23,329 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,330 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 11:07:23,335 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,335 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 11:07:23,342 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:07:23,342 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 11:07:23,347 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 11:09:55,627 | utilities] format_date_yyyymmdd: Starting 2022-10-01 00:00:00 formatting.
+[INFO | 2024-03-08 11:09:55,627 | utilities] format_date_yyyymmdd: Finished 2022-10-01 00:00:00 formatting.
+
+[INFO | 2024-03-08 11:09:55,627 | interactive] This date (20221001) has already been processed. The files will be reprocessed and rewritten.
+
+[INFO | 2024-03-08 11:09:55,746 | utilities] download_snodas: Connected to FTP server. Routing to 2022-10-01 00:00:00
+[INFO | 2024-03-08 11:09:58,279 | utilities] download_snodas: Downloaded 2022-10-01 00:00:00
+[INFO | 2024-03-08 11:09:58,281 | utilities] download_snodas: Download complete for 2022-10-01 00:00:00.
+
+[INFO | 2024-03-08 11:09:58,281 | utilities] untar_snodas_file: Starting D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar
+[INFO | 2024-03-08 11:09:58,348 | utilities] untar_snodas_file: D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar has been untarred.
+
+[INFO | 2024-03-08 11:09:58,348 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:09:58,351 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:58,351 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:09:58,615 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:58,615 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:09:58,618 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:58,618 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:09:58,896 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:58,896 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 11:09:58,900 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:58,900 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 11:09:59,173 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,173 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:09:59,177 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,177 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:09:59,464 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,464 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 11:09:59,468 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,468 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 11:09:59,813 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,813 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 11:09:59,817 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:09:59,817 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 11:10:00,094 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:10:00,094 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:10:00,097 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:10:00,097 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:10:00,369 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:10:00,369 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 11:10:00,372 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 11:10:00,373 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 11:10:00,659 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 11:10:00,659 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:06:04,475 | utilities] format_date_yyyymmdd: Starting 2022-10-01 00:00:00 formatting.
+[INFO | 2024-03-08 12:06:04,490 | utilities] format_date_yyyymmdd: Finished 2022-10-01 00:00:00 formatting.
+
+[INFO | 2024-03-08 12:06:04,490 | interactive] This date (20221001) has already been processed. The files will be reprocessed and rewritten.
+
+[INFO | 2024-03-08 12:06:04,707 | utilities] download_snodas: Connected to FTP server. Routing to 2022-10-01 00:00:00
+[INFO | 2024-03-08 12:06:07,199 | utilities] download_snodas: Downloaded 2022-10-01 00:00:00
+[INFO | 2024-03-08 12:06:07,199 | utilities] download_snodas: Download complete for 2022-10-01 00:00:00.
+
+[INFO | 2024-03-08 12:06:07,199 | utilities] untar_snodas_file: Starting D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar
+[INFO | 2024-03-08 12:06:07,268 | utilities] untar_snodas_file: D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar has been untarred.
+
+[INFO | 2024-03-08 12:06:07,268 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:06:07,268 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:07,268 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:06:07,532 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:07,532 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:06:07,548 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:07,548 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:06:07,800 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:07,800 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:06:07,816 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:07,816 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:06:08,070 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,070 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:06:08,085 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,085 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:06:08,355 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,355 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 12:06:08,355 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,355 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 12:06:08,639 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,639 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 12:06:08,639 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,655 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 12:06:08,919 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,919 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:06:08,919 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:08,919 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:06:09,213 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:09,213 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:06:09,221 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:09,221 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:06:09,518 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:06:09,518 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:06:09,518 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,518 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:06:09,518 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,518 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:06:09,534 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,534 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:06:09,534 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,534 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:06:09,550 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:06:09,565 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:24,878 | utilities] format_date_yyyymmdd: Starting 2022-10-01 00:00:00 formatting.
+[INFO | 2024-03-08 12:11:24,878 | utilities] format_date_yyyymmdd: Finished 2022-10-01 00:00:00 formatting.
+
+[INFO | 2024-03-08 12:11:24,878 | interactive] This date (20221001) has already been processed. The files will be reprocessed and rewritten.
+
+[INFO | 2024-03-08 12:11:24,992 | utilities] download_snodas: Connected to FTP server. Routing to 2022-10-01 00:00:00
+[INFO | 2024-03-08 12:11:27,633 | utilities] download_snodas: Downloaded 2022-10-01 00:00:00
+[INFO | 2024-03-08 12:11:27,633 | utilities] download_snodas: Download complete for 2022-10-01 00:00:00.
+
+[INFO | 2024-03-08 12:11:27,633 | utilities] untar_snodas_file: Starting D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar
+[INFO | 2024-03-08 12:11:27,686 | utilities] untar_snodas_file: D:\Python Projects\SNODAStools\testing\RAW_data\SNODAS_20221001.tar has been untarred.
+
+[INFO | 2024-03-08 12:11:27,701 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:11:27,701 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:27,701 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:11:27,955 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:27,955 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:11:27,955 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:27,955 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:11:28,203 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,203 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz
+[INFO | 2024-03-08 12:11:28,218 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,218 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz
+[INFO | 2024-03-08 12:11:28,456 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,456 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:11:28,472 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,472 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:11:28,735 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,735 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 12:11:28,735 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:28,735 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 12:11:29,073 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,073 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz
+[INFO | 2024-03-08 12:11:29,089 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,089 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz
+[INFO | 2024-03-08 12:11:29,358 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,358 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:11:29,358 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,358 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:11:29,621 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,621 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz
+[INFO | 2024-03-08 12:11:29,621 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.txt.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,621 | utilities] extract_snodas_gz_file: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz
+[INFO | 2024-03-08 12:11:29,907 | utilities] extract_snodas_gz_file: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat.gz has been extracted.
+
+[INFO | 2024-03-08 12:11:29,907 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,922 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:11:29,938 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,938 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 12:11:29,938 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,938 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat
+[INFO | 2024-03-08 12:11:29,954 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,954 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:11:29,960 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,960 | utilities] convert_snodas_dat_to_bil: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat
+[INFO | 2024-03-08 12:11:29,960 | utilities] convert_snodas_dat_to_bil: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.dat has been converted into .bil format.
+
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.bil
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11050lL00T0024TTNATS2022100105DP000.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.bil
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11044bS__T0024TTNATS2022100105DP000.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.bil
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11039lL00T0024TTNATS2022100105DP000.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,960 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.bil
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11038wS__A0024TTNATS2022100105DP001.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.bil
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11036tS__T0001TTNATS2022100105HP001.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.bil
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv11034tS__T0001TTNATS2022100105HP001.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.bil
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL01T0024TTNATS2022100105DP001.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: Starting D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.bil
+[INFO | 2024-03-08 12:11:29,975 | utilities] create_snodas_hdr_file_post2013: D:\Python Projects\SNODAStools\testing\netcdf\us_ssmv01025SlL00T0024TTNATS2022100105DP001.bil now has a created a custom .hdr file.
+
+[INFO | 2024-03-08 14:54:46,686 | interactive] main.py: Started 
+
+[INFO | 2024-03-08 14:54:46,686 | interactive] Running main.py Version 1
+
